@@ -1,12 +1,12 @@
-// function _sum(n){
-//     const summation = n.reduce(function(o,n){
-//         return o + n
-//     })
+function _sum(n){
+    const summation = n.reduce(function(o,n){
+        return o + n
+    })
 
-//     return summation
-// }
+    return summation
+}
 
-// // console.log(sum([1,2,3,45]));
+// console.log(sum([1,2,3,45]));
 
 
 const sum = (n) => {
