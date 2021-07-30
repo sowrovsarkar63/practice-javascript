@@ -1,0 +1,1 @@
+console.log("Print something on the cosole ")
