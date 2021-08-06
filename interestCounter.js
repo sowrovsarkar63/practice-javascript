@@ -10,6 +10,7 @@ as a parameter
 then Make take a variable and write the formula in js expression . then return it 
 
 
+
 */
 
 function InterestCounter(PrincipalAmount, InterestRate, TimeFrameInYear) {
