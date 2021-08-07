@@ -8,3 +8,5 @@ function GetFactorial(num) {
 }
 
 console.log(GetFactorial(7));
+
+console.log(toFixed(33.444));

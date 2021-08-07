@@ -1,0 +1,1 @@
+n factorial =  n * (n-1) -> this mean n* previous number /value factorial
