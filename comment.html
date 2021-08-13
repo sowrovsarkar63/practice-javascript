@@ -12,7 +12,7 @@
     <h1>Add your comments , Please !!</h1>
     <section>
         <h4>Your comments</h4>
-        <div class="containers">
+        <div id="containers">
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Est officiis velit animi necessitatibus optio
                 neque quidem dolore fugiat, vel odit, tempora vitae? Nemo rem quaerat modi expedita aliquam, amet
                 laboriosam!</p>
@@ -30,7 +30,7 @@
     <script>
         // add event listener 
         document.getElementById('submitComment').addEventListener('click', function () {
-            let commentContainer = document.getElementsByClassName('containers');
+            let commentContainer = document.getElementById('containers');
             //   get comment text 
 
             let CommentBox = document.getElementById('newComment').value;
