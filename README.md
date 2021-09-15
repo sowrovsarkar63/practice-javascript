@@ -1,1 +1,1 @@
-# practice-javascript daily and document the experimental code.
+# This is blank repository for now
